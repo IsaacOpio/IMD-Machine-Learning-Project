@@ -62,4 +62,51 @@ recode cd4takeoff1 (min/350=1 "Normal CD4 range") (351/500=2 "Possibly immune co
 
 
 
+** FOR STRESS CALCAULTIONS 
+gen total_stress = chronic + recent3
+
+gen stress_category = .
+replace stress_category = 1 if total_stress == 2
+replace stress_category = 2 if inrange(total_stress, 3, 4)
+replace stress_category = 3 if inrange(total_stress, 5, 6)
+drop total_stress
+
+gen Rs10482605_new = Rs10482605 if Rs10482605 != "?"
+gen Rs1360780_new = Rs1360780 if Rs1360780 != "?"
+gen rs1386494_new = rs1386494 if rs1386494 != "0"
+gen rs1843809_new = rs1843809 if rs1843809 != "0"
+gen rs34517220_new = rs34517220 if rs34517220 != "0"
+
+** Recode the columns for polymorphsisms
+generate Rs10482605 = "No" if missing(Rs10482605_new)
+replace Rs10482605 = "Yes" if !missing(Rs10482605_new)
+
+generate Rs1360780 = "No" if missing(Rs1360780_new)
+replace Rs1360780 = "Yes" if !missing(Rs1360780_new)
+
+generate rs1386494 = "No" if missing(rs1386494_new)
+replace rs1386494 = "Yes" if !missing(rs1386494_new)
+
+generate rs1843809 = "No" if missing(rs1843809_new)
+replace rs1843809 = "Yes" if !missing(rs1843809_new)
+
+generate rs34517220 = "No" if missing(rs34517220_new)
+replace rs34517220 = "Yes" if !missing(rs34517220_new)
+
+
+
+
+generate stin2vntr_new = "No" if missing(stin2vntr_)
+replace stin2vntr_new = "Yes" if !missing(stin2vntr_)
+
+generate httlpr1_new = "No" if missing(httlpr1)
+replace httlpr1_new = "Yes" if !missing(httlpr1)
+
+generate HTTLPRrs35531_new = "No" if missing(HTTLPRrs35531)
+replace HTTLPRrs35531_new = "Yes" if !missing(HTTLPRrs35531)
+
+generate rs35531_new = "No" if missing(rs35531)
+replace rs35531_new = "Yes" if !missing(rs35531)
+
+
 

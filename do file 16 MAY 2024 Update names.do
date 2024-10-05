@@ -22,13 +22,21 @@ rename religion1 Religion
 rename ses_cat Socio_Economic_Status   
 rename chilborhiv Born_with_HIV
 rename rs35531 rs35531_polymorphism      
+<<<<<<< HEAD
 rename tlbase Baseline_telomere_length         
+=======
+rename rs1843809_~c rs1843809_polymorphism  
+rename tlbase Baseline_telomere_length         
+rename Rs10482605~c  Rs10482605_polymorphism  
+rename rs34517220~c rs34517220_polymorphism  
+>>>>>>> 10f9c8c6d8e161c4647f4daa6243dc9d1bd24737
 rename sex1 Gender_of_Child         
 rename childeduc1 Childs_Education_Level  
 rename childartk1 Child_Takes_ART    
 rename childworst1 Worst_HIV_Stage 
 rename tl12 Telomere_length_12Months          
 rename httlpr1 httlpr1_polymorphism  
+<<<<<<< HEAD
 rename childpremt1 Premature_Birth 
 rename rs1843809 rs1843809_polymorphism
 rename Rs10482605  Rs10482605_polymorphism
@@ -36,3 +44,9 @@ rename rs34517220 rs34517220_polymorphism
 rename Rs1360780  Rs1360780_polymorphism  
 rename rs1386494 rs1386494_polymorphism
 rename rs4570625 rs4570625_polymorphism
+=======
+rename Rs1360780_~c  Rs1360780_polymorphism  
+rename childeduc1_Child's_Education_Level
+rename childpremt1 Premature_Birth 
+rename rs1386494_~c rs1386494_polymorphism
+>>>>>>> 10f9c8c6d8e161c4647f4daa6243dc9d1bd24737

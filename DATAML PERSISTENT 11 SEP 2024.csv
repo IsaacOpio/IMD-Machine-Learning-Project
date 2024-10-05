@@ -1,0 +1,737 @@
+PatientID,Age,agecatak,AgeCategory,Gender_of_Child,Religion,Childs_Education_Level,BMI_category,childtrib1,orphanhood,Socio_Economic_Status,Support_Program,Child_Takes_ART,Worst_HIV_Stage,Premature_Birth,Born_with_HIV,Stress,GroupCategory,cd4takeoff1,CD4_category,Viralload,Viralload_Category,Baseline_telomere_length,Telomere_length_12Months,tldiff,telomere_length_change,stin2vntr_,httlpr1_polymorphism,HTTLPRrs35531,rs35531_polymorphism,Rs10482605_polymorphism,Rs1360780_polymorphism,rs1386494_polymorphism,rs1843809_polymorphism,rs34517220_polymorphism,rs4570625_polymorphism,gadall,mddall,ptsdall,IMDs
+CHAKA/01/01/0001,11.66872,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1125,Advanced immune compromised,0,Undetectable,1.085469457,1.038387539,0.047081918,Decreased,,SS,,,A:A,C:T,A:A,G:G,A:A,G:G,0,0,0,0
+CHAKA/01/01/0002,15,13-17,Adolescent,Male,Protestant,Pre-primary,Normal weight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,Yes,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,559,Advanced immune compromised,33276,Unsuppressed,1.206384167,,,,12-Dec,SS,SA/SA,A:A,A:A,C:T,A:A,G:G,A:A,T:G,0,0,0,0
+CHAKA/01/02/0153,11.696098,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1080,Advanced immune compromised,0,Undetectable,1.131768269,0.903364719,0.22840355,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:G,G:A,G:G,0,0,1,1
+CHAKA/01/02/0159,15,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1042,Advanced immune compromised,0,Undetectable,,,,,12-Dec,LS,LA/SA,A:A,?,C:C,G:G,0,G:G,T:G,0,0,0,0
+CHAKA/01/02/0167,14,13-17,Adolescent,Male,Protestant,Secondary level,Obesity,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,123,Normal CD4 range,37050,Unsuppressed,1.49102383,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/01/02/0173,9.5195074,09-Dec,Adolescent,Male,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,540,Advanced immune compromised,0,Undetectable,1.734832686,0.855787348,0.87904537,Decreased,10-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:G,G:A,G:G,0,0,1,1
+CHAKA/01/02/0175,12,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,922,Advanced immune compromised,0,Undetectable,1.345982994,0.574337344,0.77164567,Decreased,10-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:G,G:A,G:G,1,0,1,1
+CHAKA/01/02/0177,15,13-17,Adolescent,Female,Protestant,Pre-primary,Normal weight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,504,Advanced immune compromised,,,1.235339262,0.522947806,0.71239144,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,0,T:T,A:A,T:T,1,1,1,1
+CHAKA/01/02/0180,10.349076,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1484,Advanced immune compromised,10,Suppressed,,0.778171515,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,T:G,G:G,T:G,0,0,0,0
+CHAKA/01/02/0182,13,13-17,Adolescent,Male,Catholic,Pre-primary,Obesity,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,severe stress,cases,1309,Advanced immune compromised,,,,0.827943212,,,10-Dec,LL,LA/LA,A:A,G:A,T:T,G:G,T:G,G:A,G:G,0,0,0,0
+CHAKA/01/02/0185,13,09-Dec,Adolescent,Male,Muslim,Secondary level,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,216,Normal CD4 range,,,1.075606057,,,,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/01/02/0187,12,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,790,Advanced immune compromised,,,1.405206444,1.058849519,0.34635693,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,G:G,G:A,T:T,0,0,1,1
+CHAKA/01/02/0188,14,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,234,Normal CD4 range,,,1.176255778,,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,T:G,A:A,T:G,0,0,1,1
+CHAKA/01/02/0191,13,13-17,Adolescent,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,No,severe stress,cases,319,Normal CD4 range,,,1.222356972,0.95537998,0.26697698,Decreased,12-Dec,SS,SA/SA,A:A,A:A,C:C,G:A,T:G,G:G,T:G,0,0,0,0
+CHAKA/01/02/0194,9.5633125,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1572,Advanced immune compromised,10,Suppressed,1.537934488,0.919560674,0.61837381,Decreased,10-Dec,LL,LA/LG,A:G,G:A,C:T,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/01/02/0201,8.7173166,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1022,Advanced immune compromised,10,Suppressed,1.315371088,0.844034937,0.47133616,Decreased,12-Dec,LL,LA/LA,A:A,A:A,?,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/01/02/0215,15,13-17,Adolescent,Male,Protestant,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,736,Advanced immune compromised,,,,0.933969933,,,12-Dec,LL,LA/LA,A:A,?,C:C,G:A,T:G,G:A,T:T,0,0,0,0
+CHAKA/01/02/0225,9.2265568,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1090,Advanced immune compromised,0,Undetectable,,0.7357,,,10-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:G,G:G,G:G,0,0,0,0
+CHAKA/01/02/0339,14,13-17,Adolescent,Female,Catholic,Secondary level,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,494,Possibly immune compromised,,,1.14187041,1.204068801,-0.062198389,Increased,10-Dec,LL,LG/LG,G:G,G:A,C:T,G:G,T:T,A:A,T:G,0,0,1,1
+CHAKA/01/02/0341,15,13-17,Adolescent,Female,Muslim,Secondary level,Overweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,205,Normal CD4 range,,,0.87728117,1.212370335,-0.33508918,Increased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,G:G,T:T,0,0,1,1
+CHAKA/01/02/0343,5.322382,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1401,Advanced immune compromised,21,Suppressed,2.130282147,0.995948652,1.1343335,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,G:G,G:G,G:G,0,0,0,0
+CHAKA/01/02/0344,10.110883,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1365,Advanced immune compromised,1307,Unsuppressed,1.064150675,0.793425076,0.27072561,Decreased,10-Dec,SS,SA/SA,A:A,G:A,C:C,G:G,T:G,G:G,G:G,1,1,1,1
+CHAKA/01/02/0345,13,13-17,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,708,Advanced immune compromised,,,1.086553214,2.091526605,-1.0049734,Increased,10-Dec,LL,LA/LA,A:A,?,C:C,G:G,G:G,G:G,T:G,0,0,1,1
+CHAKA/01/03/0301,11.430527,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,707,Advanced immune compromised,93,Suppressed,1.201022137,0.568686336,0.63233578,Decreased,,LS,,,G:A,C:C,G:G,T:G,G:A,T:G,0,0,1,1
+CHAKA/01/03/0302,7.545517,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,No,Stage 2,Was not a premature at birth,Yes,severe stress,cases,883,Advanced immune compromised,0,Undetectable,1.268033494,,,,,LL,,,G:A,C:C,G:G,T:T,A:A,G:G,0,1,0,1
+CHAKA/01/03/0305,14,13-17,Adolescent,Female,Muslim,Secondary level,Normal weight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,No,severe stress,cases,500,Possibly immune compromised,1106,Unsuppressed,,,,,10-Dec,LL,LA/LG,A:G,?,C:T,G:G,T:T,G:G,T:G,0,0,1,1
+CHAKA/01/03/0311,11.488022,09-Dec,Adolescent,Female,Catholic,Pre-primary,Normal weight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,839,Advanced immune compromised,0,Undetectable,1.766849669,0.585146922,1.1817027,Decreased,10-Oct,LL,LA/LA,A:A,G:A,T:T,G:G,T:T,G:A,G:G,0,0,0,0
+CHAKA/01/03/0312,10.138262,05-Aug,Children,Male,Catholic,,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,Yes,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,435,Possibly immune compromised,9420,Unsuppressed,1.665430999,1.209959442,0.45547155,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,A:A,,0,0,0,0
+CHAKA/01/03/0314,12,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,1374,Advanced immune compromised,,,1.21471783,1.980562525,-0.7658447,Increased,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:G,T:T,G:A,T:G,1,1,1,1
+CHAKA/01/03/0315,12,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,,Yes,severe stress,cases,696,Advanced immune compromised,30440,Unsuppressed,1.240154044,1.34470972,-0.10455567,Increased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,G:A,T:G,0,0,1,1
+CHAKA/01/03/0319,12,09-Dec,Adolescent,Male,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,I don’t know,Yes,mild stress,cases,172,Normal CD4 range,101523,Unsuppressed,1.794105343,0.29745948,1.4966458,Decreased,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:G,G:G,G:G,G:G,0,0,1,1
+CHAKA/01/03/0323,12,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,518,Advanced immune compromised,10,Suppressed,1.003324372,1.133706659,-0.13038228,Increased,10-Oct,LS,LA/SA,A:A,A:A,C:T,G:G,T:G,G:G,T:G,0,1,1,1
+CHAKA/01/03/0328,13,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,1114,Advanced immune compromised,0,Undetectable,1.200079964,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:G,G:A,G:G,0,0,1,1
+CHAKA/01/03/0332,6.6967831,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,237,Normal CD4 range,286834,Unsuppressed,1.602989813,,,,10-Dec,LS,LA/SA,A:A,A:A,T:T,G:A,G:G,G:G,G:G,0,0,0,0
+CHAKA/01/04/0530,14,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,667,Advanced immune compromised,5652,Unsuppressed,1.015051279,,,,10-Dec,LS,SA/LG,A:G,A:A,C:T,G:G,T:G,G:A,,0,0,0,0
+CHAKA/01/04/0535,,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,No,severe stress,cases,1025,Advanced immune compromised,252948,Unsuppressed,1.17144688,1.044110081,0.1273368,Decreased,10-Dec,LL,LA/LA,A:A,?,C:C,G:G,G:G,G:G,,0,0,0,0
+CHAKA/01/04/0537,11.786448,09-Dec,Adolescent,Female,Protestant,Pre-primary,Normal weight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,622,Advanced immune compromised,0,Undetectable,1.327270193,0.912658863,0.41461134,Decreased,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/01/04/0538,7.8329911,05-Aug,Children,Female,Muslim,Pre-primary,Normal weight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1732,Advanced immune compromised,0,Undetectable,,1.025107897,,,10-Dec,LL,LA/LG,A:G,?,T:T,G:G,G:G,G:G,T:T,1,0,0,1
+CHAKA/01/04/0540,8.7529087,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,No,Stage 1,Was not a premature at birth,Yes,severe stress,cases,927,Advanced immune compromised,13210,Unsuppressed,,0.19117871,,,10-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:G,G:A,G:G,0,0,0,0
+CHAKA/01/04/0545,13,13-17,Adolescent,Female,Protestant,Secondary level,Overweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1404,Advanced immune compromised,0,Undetectable,1.350011457,0.449048349,0.90096313,Decreased,12-Dec,SS,SA/SA,A:A,A:A,C:C,G:G,T:T,G:A,,0,0,1,1
+CHAKA/01/04/0548,10.718686,09-Dec,Adolescent,Male,Catholic,Pre-primary,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,921,Advanced immune compromised,0,Undetectable,1.168965415,,,,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/01/04/0551,11.156742,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1046,Advanced immune compromised,10,Suppressed,,,,,12-Dec,LL,LG/LG,G:G,A:A,C:C,A:A,G:G,G:A,T:G,1,0,0,1
+CHAKA/01/04/0555,12,09-Dec,Adolescent,Female,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1014,Advanced immune compromised,0,Undetectable,0.179946275,0.833275885,-0.65332961,Increased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:G,G:G,,0,0,0,0
+CHAKA/01/04/0557,14,13-17,Adolescent,Male,Protestant,Pre-primary,Normal weight,Non-Munganda but Ugandan,Both parents dead,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,611,Advanced immune compromised,10,Suppressed,1.512053991,0.819303562,0.69275045,Decreased,12-Dec,LL,LA/LG,A:G,A:A,T:T,A:A,G:G,A:A,T:G,0,0,1,1
+CHAKA/01/04/0558,11.422314,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1294,Advanced immune compromised,0,Undetectable,1.166860559,0.296571132,0.87028944,Decreased,10-Dec,LL,LA/LG,A:G,G:A,C:T,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/01/04/0559,14,13-17,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,578,Advanced immune compromised,10,Suppressed,1.040740974,0.871231502,0.16950947,Decreased,10-Dec,LS,SA/LG,A:G,A:A,C:C,G:G,T:G,G:G,G:G,0,0,1,1
+CHAKA/01/04/0562,,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,670,Advanced immune compromised,10,Suppressed,,0.541551056,,,10-Oct,LL,LA/LG,A:G,A:A,C:C,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/01/04/0566,12,05-Aug,Children,Female,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,557,Advanced immune compromised,198,Suppressed,1.108354813,,,,10-Oct,LL,LG/LG,G:G,A:A,C:T,G:G,T:T,G:A,T:G,0,0,1,1
+CHAKA/01/04/0567,12,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,825,Advanced immune compromised,,,1.481517406,,,,10-Dec,LL,LA/LG,A:G,A:A,C:C,G:A,G:G,G:A,T:G,1,0,1,1
+CHAKA/01/04/0569,17,13-17,Adolescent,Female,Catholic,Secondary level,Overweight,Muganda,,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,360,Possibly immune compromised,,,1.375404881,,,,10-Dec,LL,LA/LA,A:A,A:A,T:T,G:G,T:T,A:A,G:G,0,0,1,1
+CHAKA/01/04/0575,17,13-17,Adolescent,Male,Catholic,Secondary level,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,776,Advanced immune compromised,0,Undetectable,,,,,,,,,,,,,,G:G,0,0,1,1
+CHAKA/01/04/0579,6.8008213,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was a premature at birth,Yes,severe stress,cases,968,Advanced immune compromised,7568,Unsuppressed,1.295148984,,,,10-Dec,LL,LA/LA,A:A,G:A,C:T,G:A,T:G,G:A,T:G,0,1,0,1
+CHAKA/01/04/0580,8.9883642,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents dead,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,742,Advanced immune compromised,10,Suppressed,0.927762013,1.097646191,-0.16988418,Increased,12-Dec,SS,SA/SA,A:A,A:A,T:T,G:G,T:G,G:G,T:G,0,0,0,0
+CHAKA/01/04/0586,14,13-17,Adolescent,Female,Born Again,Secondary level,Normal weight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,415,Possibly immune compromised,944,Suppressed,1.095893768,1.060874907,0.035018861,Decreased,12-Dec,LS,LA/SG,A:G,A:A,T:T,A:A,G:G,A:A,T:G,0,0,0,0
+CHAKA/01/04/0588,5.0677619,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1689,Advanced immune compromised,31,Suppressed,0.788006416,,,,,SS,SA/SA,A:A,G:A,C:T,G:A,G:G,G:A,T:T,0,0,0,0
+CHAKA/01/04/0591,13,13-17,Adolescent,Male,Catholic,Pre-primary,Normal weight,Muganda,,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,moderate stress,cases,709,Advanced immune compromised,0,Undetectable,2.01523849,,,,10-Dec,LL,LA/LA,A:A,A:A,T:T,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/01/04/0592,15,13-17,Adolescent,Male,Catholic,Secondary level,Overweight,Muganda,,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,moderate stress,cases,718,Advanced immune compromised,0,Undetectable,,,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,T:G,G:G,T:G,0,0,0,0
+CHAKA/01/04/0596,8.019165,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1210,Advanced immune compromised,0,Undetectable,,1.869550866,,,10-Dec,LL,LA/LG,A:G,?,C:C,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/01/04/1365,10.885695,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,961,Advanced immune compromised,0,Undetectable,1.360019299,0.71056725,0.64945203,Decreased,,LL,LA/LA,A:A,A:A,C:C,A:A,G:G,A:A,G:G,0,0,1,1
+CHAKA/01/04/1368,8.4845991,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,228,Normal CD4 range,10,Suppressed,0.676719911,,,,10-Dec,LL,LA/LG,A:G,A:A,C:C,G:A,T:G,A:A,T:T,0,0,0,0
+CHAKA/01/09/0602,11.849419,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,2088,Advanced immune compromised,0,Undetectable,0.814244905,,,,12-Dec,LS,LA/SA,A:A,?,C:C,G:A,T:G,A:A,G:G,0,0,0,0
+CHAKA/01/09/0609,12,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,816,Advanced immune compromised,10,Suppressed,,,,,10-Dec,LL,LA/LA,A:A,?,C:T,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/01/09/0611,5.538672,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,No,Stage 1,Was not a premature at birth,Yes,mild stress,cases,81,Normal CD4 range,1086436,Unsuppressed,1.23958186,1.350959488,-0.11137763,Increased,,LS,LA/LA,A:A,A:A,T:T,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/01/09/0615,10.940452,09-Dec,Adolescent,Male,SDA,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1168,Advanced immune compromised,0,Undetectable,1.545693298,0.789373217,0.75632006,Decreased,12-Dec,LL,LA/LG,A:G,A:A,T:T,G:A,G:G,G:A,T:G,0,1,0,1
+CHAKA/01/09/0616,14,13-17,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 4,Was not a premature at birth,Yes,severe stress,cases,1090,Advanced immune compromised,0,Undetectable,1.263826036,0.759084346,0.50474167,Decreased,10-Dec,LL,LA/LA,A:A,G:A,C:T,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/01/09/0617,13,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,915,Advanced immune compromised,,,1.416658173,0.540953994,0.87570417,Decreased,10-Dec,LS,LA/SA,A:A,G:A,C:T,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/01/09/0620,13,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,771,Advanced immune compromised,,,1.196081556,0.858447075,0.33763447,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/01/09/0621,15,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,63,Normal CD4 range,,,1.460798234,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,A:A,G:G,0,0,1,1
+CHAKA/01/09/0624,12,09-Dec,Adolescent,Male,Protestant,Pre-primary,Overweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,662,Advanced immune compromised,,,1.0215687,,,,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:G,G:G,T:G,0,0,0,0
+CHAKA/01/09/0625,15,05-Aug,Children,Female,Catholic,Secondary level,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,I don’t know,Yes,severe stress,cases,496,Possibly immune compromised,,,1.070612323,0.62795663,0.44265568,Decreased,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,G:G,G:G,G:G,0,0,0,0
+CHAKA/01/09/0628,5.1307325,05-Aug,Children,Male,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,976,Advanced immune compromised,0,Undetectable,1.230612113,0.84550647,0.38510564,Decreased,,LL,,,G:A,C:C,G:A,T:G,A:A,T:T,0,0,0,0
+CHAKA/01/09/0635,10.149213,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,Yes,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,798,Advanced immune compromised,0,Undetectable,1.171447075,0.752912925,0.41853416,Decreased,10-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/01/09/0636,14,13-17,Adolescent,Female,Muslim,Secondary level,Normal weight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,264,Normal CD4 range,,,1.457569205,1.012552441,0.44501677,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:G,G:A,T:T,0,0,1,1
+CHAKA/01/09/0637,12,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,862,Advanced immune compromised,,,0.867129731,0.751175712,0.11595402,Decreased,12-Dec,LS,LA/LA,A:A,A:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/01/09/0638,14,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 3,I don’t know,Yes,moderate stress,cases,17,Normal CD4 range,,,0.842838163,0.964937116,-0.12209895,Increased,10-Dec,SS,SA/SA,A:A,A:A,C:T,G:A,G:G,G:A,T:G,0,1,0,1
+CHAKA/01/09/0644,13,13-17,Adolescent,Male,Muslim,Secondary level,Normal weight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,461,Possibly immune compromised,,,1.019098107,1.254765684,-0.23566757,Increased,12-Dec,LS,SA/LG,A:G,A:A,C:C,G:G,T:T,G:G,G:G,0,0,0,0
+CHAKA/01/09/0656,15,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,717,Advanced immune compromised,,,,0.741133656,,,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,G:G,G:G,T:G,0,0,1,1
+CHAKA/02/01/0008,10.450377,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,755,Advanced immune compromised,10,Suppressed,1.086317098,0.809493339,0.27682376,Decreased,10-Dec,LL,LA/LA,A:A,G:A,C:T,A:A,G:G,A:A,T:T,0,0,0,0
+CHAKA/02/01/0009,15.192334,13-17,Adolescent,Female,Catholic,Secondary level,Normal weight,Muganda,Both parents dead,high socioecnomic status,,Yes,Stage 2,I don’t know,Yes,mild stress,cases,427,Possibly immune compromised,,,1.77321011,1.255826149,0.51738393,Decreased,10-Dec,LL,LA/LA,A:A,A:A,T:T,G:G,G:G,G:G,T:G,1,0,1,1
+CHAKA/02/01/0020,9.4209442,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,377,Possibly immune compromised,11006,Unsuppressed,1.244942058,0.806249677,0.43869239,Decreased,10-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/02/01/0026,9.9192333,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1504,Advanced immune compromised,10,Suppressed,,0.885190823,,,12-Dec,LL,,,?,T:T,G:A,T:G,A:A,G:G,0,0,0,0
+CHAKA/02/01/0031,11.033539,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1396,Advanced immune compromised,45,Suppressed,2.085857944,1.173718009,0.91213995,Decreased,10-Dec,LS,LA/SA,A:A,A:A,?,G:A,G:G,G:A,G:G,0,0,1,1
+CHAKA/02/01/0032,7.761807,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents dead,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1304,Advanced immune compromised,0,Undetectable,1.230485945,0.770843085,0.45964286,Decreased,10-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/02/01/0036,9.765914,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,2091,Advanced immune compromised,0,Undetectable,1.235966374,0.887802907,0.34816346,Decreased,,SS,SA/SA,A:A,A:A,C:C,G:A,T:G,G:A,G:G,0,0,0,0
+CHAKA/02/01/0050,13,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents dead,high socioecnomic status,Yes,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,577,Advanced immune compromised,,,1.25291661,2.189599251,-0.93668264,Increased,10-Dec,LS,LA/SA,A:A,?,C:C,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/01/0055,13.787817,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,321,Normal CD4 range,,,0.84933623,0.8249668,0.02436943,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,T:G,G:A,G:G,1,0,0,1
+CHAKA/02/01/0058,12.435318,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,Yes,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,862,Advanced immune compromised,,,0.870159144,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,G:G,G:G,T:T,0,0,0,0
+CHAKA/02/01/0060,7.2744694,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,656,Advanced immune compromised,10229,Unsuppressed,0.672555027,,,,10-Oct,LS,SA/LG,A:G,G:A,T:T,G:G,G:G,G:G,T:T,1,0,0,1
+CHAKA/02/01/0061,13.809719,13-17,Adolescent,Female,Muslim,Pre-primary,Normal weight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,442,Possibly immune compromised,,,1.622820387,1.581765494,0.041054893,Decreased,12-Dec,LL,LA/LA,A:A,?,C:C,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/02/01/0062,16.062971,13-17,Adolescent,Male,Muslim,Secondary level,Normal weight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,673,Advanced immune compromised,,,1.353793356,1.358526933,-0.004733577,Increased,12-Dec,LL,LA/LG,A:G,G:A,C:T,G:G,T:T,G:A,G:G,0,0,0,0
+CHAKA/02/01/0064,7.8193021,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,849,Advanced immune compromised,21,Suppressed,,0.821022237,,,12-Dec,LL,LA/LA,A:A,?,C:C,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/01/0065,9.3059549,09-Dec,Adolescent,Male,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,920,Advanced immune compromised,296224,Unsuppressed,0.94356381,,,,10-Dec,LS,SA/LG,A:G,?,C:T,G:A,G:G,G:G,G:G,1,0,0,1
+CHAKA/02/01/0067,13.314168,13-17,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,Yes,Yes,Stage 4,Was not a premature at birth,Yes,moderate stress,cases,485,Possibly immune compromised,,,,,,,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:G,G:A,T:G,0,1,0,1
+CHAKA/02/01/0074,9.9493494,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was a premature at birth,Yes,mild stress,cases,1319,Advanced immune compromised,119,Suppressed,0.741431706,0.970464502,-0.2290328,Increased,,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,A:A,T:T,0,0,0,0
+CHAKA/02/01/0075,8.1971254,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,No,moderate stress,cases,1064,Advanced immune compromised,0,Undetectable,0.887483846,1.129002627,-0.24151878,Increased,10-Dec,LS,SA/LG,A:G,G:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/01/0076,12.799453,09-Dec,Adolescent,Male,Born Again,Pre-primary,Normal weight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,916,Advanced immune compromised,20,Suppressed,0.906139018,0.585325945,0.32081306,Decreased,10-Oct,LL,LG/LG,G:G,A:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/01/0078,16.323067,13-17,Adolescent,Female,Catholic,Secondary level,Normal weight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,626,Advanced immune compromised,0,Undetectable,0.756537533,0.666518605,0.090018928,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,T:G,A:A,T:T,1,0,1,1
+CHAKA/02/01/0079,11.772758,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,671,Advanced immune compromised,10,Suppressed,1.444803916,0.608019525,0.83678436,Decreased,12-Dec,LL,LA/LA,A:A,?,C:T,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/02/01/0084,7.6960983,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,I don’t know,Yes,severe stress,cases,1207,Advanced immune compromised,10,Suppressed,1.093070528,0.772196388,0.32087415,Decreased,12-Dec,LS,LA/SA,A:A,A:A,T:T,A:A,G:G,A:A,G:G,0,0,1,1
+CHAKA/02/01/0085,9.7029428,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1047,Advanced immune compromised,1247,Unsuppressed,,0.652958235,,,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,T:T,G:A,T:T,0,0,0,0
+CHAKA/02/01/0087,5.5934291,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1294,Advanced immune compromised,64295,Unsuppressed,2.077559917,,,,10-Dec,LL,LA/LG,A:G,A:A,T:T,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/01/0094,9.4647503,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1374,Advanced immune compromised,0,Undetectable,2.032549841,1.422664258,0.60988557,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/01/0095,10.431211,13-17,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,No,mild stress,cases,863,Advanced immune compromised,30,Suppressed,1.86903335,,,,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/02/01/0102,6.4804926,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,832,Advanced immune compromised,4937,Unsuppressed,1.121994701,,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/02/01/0104,9.9192333,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,483,Possibly immune compromised,117,Suppressed,1.320762265,0.956344991,0.36441728,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,G:A,T:G,1,1,0,1
+CHAKA/02/01/0111,13.297741,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,Yes,No,Stage 2,Was not a premature at birth,Yes,mild stress,cases,322,Normal CD4 range,56787,Unsuppressed,1.553657817,2.013843475,-0.46018565,Increased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,G:A,G:G,0,0,0,0
+CHAKA/02/01/0117,9.9986315,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,163,Normal CD4 range,217704,Unsuppressed,1.325484837,0.640266318,0.68521851,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:T,A:A,G:G,A:A,T:G,0,0,0,0
+CHAKA/02/01/0118,7.797399,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Non-Ugandan,Both parents dead,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1171,Advanced immune compromised,0,Undetectable,1.167287435,0.599665393,0.56762207,Decreased,12-Dec,LL,LA/LA,A:A,G:A,C:T,G:A,T:G,G:A,T:T,0,0,0,0
+CHAKA/02/01/0120,9.1718006,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,1943,Advanced immune compromised,113,Suppressed,1.167459072,1.15594748,0.011511592,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,T:G,A:A,T:T,0,0,1,1
+CHAKA/02/01/0121,12,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1492,Advanced immune compromised,0,Undetectable,1.579414245,1.270843471,0.30857077,Decreased,10-Dec,LL,LG/LG,G:G,G:A,C:T,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/01/0123,6.0616016,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,972,Advanced immune compromised,0,Undetectable,1.252386329,1.033779201,0.21860713,Decreased,12-Dec,LL,LA/LA,A:A,?,T:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/01/0129,5.4811773,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,984,Advanced immune compromised,0,Undetectable,1.323963825,1.247051934,0.076911889,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,G:G,G:G,T:G,1,0,0,1
+CHAKA/02/01/0134,7.6030116,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1673,Advanced immune compromised,0,Undetectable,1.01671087,1.454851119,-0.43814024,Increased,10-Oct,LS,SA/LG,A:G,A:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/02/01/0135,8.6023273,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,922,Advanced immune compromised,10,Suppressed,1.367111856,1.11740141,0.24971044,Decreased,10-Dec,LS,SA/LG,A:G,A:A,C:C,A:A,G:G,A:A,T:G,0,0,1,1
+CHAKA/02/01/0137,7.7180014,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1400,Advanced immune compromised,10,Suppressed,,1.476557014,,,12-Dec,LL,LA/LG,A:G,G:G,C:T,G:G,T:G,G:G,T:G,1,0,0,1
+CHAKA/02/01/0139,11.854894,05-Aug,Children,Female,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 1,I don’t know,Yes,mild stress,cases,751,Advanced immune compromised,10,Suppressed,1.141668921,0.632468567,0.50920033,Decreased,12-Dec,LL,LA/LA,A:A,A:A,T:T,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/01/0141,9.4127312,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,783,Advanced immune compromised,0,Undetectable,1.290349158,0.719221138,0.57112801,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:G,G:A,T:T,0,0,1,1
+CHAKA/02/01/0142,7.1895962,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,669,Advanced immune compromised,118,Suppressed,1.2319129,0.76906971,0.46284318,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/02/01/0144,10.855578,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents dead,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,992,Advanced immune compromised,0,Undetectable,1.487744801,0.878276902,0.60946792,Decreased,10-Dec,SS,SA/SA,A:A,A:A,C:C,G:G,G:G,G:G,T:T,0,0,0,0
+CHAKA/02/02/0160,7.9041753,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,76,Normal CD4 range,596152,Unsuppressed,0.70629912,0.685090853,0.021208268,Decreased,12-Dec,LL,LA/LA,A:A,G:A,T:T,G:G,T:G,G:G,G:G,0,0,0,0
+CHAKA/02/02/0205,10.116359,13-17,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,803,Advanced immune compromised,0,Undetectable,1.058346828,,,,12-Dec,LL,LA/LA,A:A,?,C:C,G:A,T:G,G:A,T:G,1,0,1,1
+CHAKA/02/02/0206,9.1800137,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,711,Advanced immune compromised,227078,Unsuppressed,1.319628287,0.537000548,0.78262776,Decreased,10-Dec,LL,LG/LG,G:G,A:A,C:C,G:A,G:G,G:A,T:G,1,0,1,1
+CHAKA/02/02/0226,13,13-17,Adolescent,Female,Protestant,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,615,Advanced immune compromised,10,Suppressed,1.1128576,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,A:A,G:G,0,1,1,1
+CHAKA/02/02/0228,14,13-17,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,Yes,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,752,Advanced immune compromised,33,Suppressed,1.002437092,0.554761427,0.44767568,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,G:G,G:G,T:G,0,0,0,0
+CHAKA/02/02/0229,6.9924707,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,2606,Advanced immune compromised,21,Suppressed,1.014012476,0.904354898,0.10965758,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/02/02/0230,12,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,632,Advanced immune compromised,191,Suppressed,1.342837189,0.714066174,0.62877101,Decreased,12-Dec,LS,LA/SA,A:A,G:A,C:C,G:G,T:G,G:A,T:G,0,0,1,1
+CHAKA/02/02/0231,7.9452429,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1261,Advanced immune compromised,172947,Unsuppressed,1.109555196,1.189546251,-0.079991058,Increased,10-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,0,G:A,T:T,0,0,0,0
+CHAKA/02/02/0235,12,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,severe stress,cases,395,Possibly immune compromised,10273,Unsuppressed,,1.025199554,,,12-Dec,LL,LA/LA,A:A,?,T:T,G:G,T:T,0,T:G,0,1,1,1
+CHAKA/02/02/0236,14,13-17,Adolescent,Male,Protestant,Secondary level,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,937,Advanced immune compromised,0,Undetectable,1.734663089,0.944888615,0.78977448,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,T:T,G:A,T:G,0,0,1,1
+CHAKA/02/02/0238,6.3928814,05-Aug,Children,Male,Born Again,Pre-primary,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,870,Advanced immune compromised,0,Undetectable,1.202526134,0.432419019,0.77010709,Decreased,12-Dec,LL,LA/LA,A:A,?,C:C,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/02/02/0241,10.554415,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1249,Advanced immune compromised,0,Undetectable,1.18544257,0.53591167,0.64953089,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:T,G:A,T:T,0,0,0,0
+CHAKA/02/02/0242,13,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,556,Advanced immune compromised,10,Suppressed,,,,,12-Dec,LL,LA/LA,A:A,G:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/02/0243,15,13-17,Adolescent,Male,Others,Secondary level,Normal weight,Non-Munganda but Ugandan,Both parents dead,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,450,Possibly immune compromised,40748,Unsuppressed,,0.943723634,,,10-Dec,LL,LA/LA,A:A,G:G,C:T,G:G,T:G,A:A,T:T,0,0,0,0
+CHAKA/02/02/0246,6.236824,05-Aug,Children,Female,Catholic,Pre-primary,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,983,Advanced immune compromised,0,Undetectable,1.304538797,2.096840744,-0.79230195,Increased,12-Dec,LS,SA/LG,A:G,?,C:T,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/02/02/0247,7.2388773,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1093,Advanced immune compromised,555,Suppressed,1.315188049,0.753886412,0.56130165,Decreased,12-Dec,LL,LA/LA,A:A,A:A,T:T,G:A,G:G,G:A,,0,0,0,0
+CHAKA/02/02/0249,6.9705682,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,No,mild stress,cases,993,Advanced immune compromised,23109,Unsuppressed,,1.198158805,,,10-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,A:A,T:T,0,0,0,0
+CHAKA/02/02/0252,8.8295689,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was a premature at birth,Yes,moderate stress,cases,681,Advanced immune compromised,0,Undetectable,1.360627946,2.014027968,-0.6534,Increased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,G:A,T:T,0,0,0,0
+CHAKA/02/02/0259,7.581109,13-17,Adolescent,Female,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1055,Advanced immune compromised,10,Suppressed,1.043044099,,,,12-Dec,LL,LA/LA,A:A,G:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/02/02/0263,9.9274473,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents dead,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,940,Advanced immune compromised,0,Undetectable,1.369493592,1.047721388,0.32177222,Decreased,10-Oct,LS,LA/SA,A:A,A:A,C:C,G:A,0,G:A,G:G,0,0,0,0
+CHAKA/02/02/0271,10.666667,09-Dec,Adolescent,Male,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1347,Advanced immune compromised,0,Undetectable,1.106158272,0.420629247,0.68552905,Decreased,10-Oct,LS,LA/SA,A:A,A:A,C:T,G:G,T:G,G:G,T:T,0,0,0,0
+CHAKA/02/02/0272,7.2361398,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1189,Advanced immune compromised,10,Suppressed,1.706037139,0.547785068,1.1582521,Decreased,12-Dec,SS,SA/SA,A:A,A:A,C:C,G:G,T:T,G:G,T:G,0,0,0,0
+CHAKA/02/02/0274,16,09-Dec,Adolescent,Male,Catholic,Secondary level,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,19,Normal CD4 range,,,1.349523439,,,,10-Dec,LL,LA/LG,A:G,G:A,C:C,G:A,T:G,G:A,T:G,0,0,1,1
+CHAKA/02/02/0275,7.778234,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 4,Was not a premature at birth,Yes,mild stress,cases,1251,Advanced immune compromised,0,Undetectable,1.222529645,,,,10-Oct,LL,LA/LG,A:G,A:A,C:C,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/02/02/0279,10.08898,13-17,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents dead,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,872,Advanced immune compromised,0,Undetectable,1.188362721,0.930160464,0.25820225,Decreased,10-Oct,LL,LG/LG,G:G,A:A,C:C,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/02/02/0280,14,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,714,Advanced immune compromised,,,1.092696474,0.952641964,0.14005451,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,T:G,A:A,T:G,0,0,1,1
+CHAKA/02/02/0281,7.7180014,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1377,Advanced immune compromised,0,Undetectable,1.313696121,,,,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/02/02/0282,9.6755648,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1001,Advanced immune compromised,0,Undetectable,1.511060571,1.782841753,-0.27178118,Increased,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:G,G:G,G:G,0,0,1,1
+CHAKA/02/02/0285,14,13-17,Adolescent,Female,Catholic,Secondary level,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,638,Advanced immune compromised,,,0.859269779,0.969932675,-0.11066289,Increased,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:A,T:G,G:G,G:G,0,0,0,0
+CHAKA/02/02/0297,12,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,465,Possibly immune compromised,,,0.934227129,,,,12-Dec,LL,,,A:A,C:T,G:G,T:T,G:A,T:G,1,1,1,1
+CHAKA/02/02/0420,16,13-17,Adolescent,Female,Protestant,Pre-primary,Overweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1151,Advanced immune compromised,,,0.705213949,0.727747872,-0.022533923,Increased,10-Dec,LS,SA/LG,A:G,A:A,C:T,G:G,T:G,G:A,T:T,0,0,1,1
+CHAKA/02/02/0421,6.9733062,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,563,Advanced immune compromised,138,Suppressed,0.400697867,0.8777876,-0.47708973,Increased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,G:A,T:T,0,0,0,0
+CHAKA/02/03/0377,7.2060232,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,No,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,755,Advanced immune compromised,0,Undetectable,1.216759017,,,,10-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/03/0383,14,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,597,Advanced immune compromised,0,Undetectable,,0.884045429,,,10-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,G:G,G:G,G:G,1,0,1,1
+CHAKA/02/03/0387,12,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,No,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1147,Advanced immune compromised,0,Undetectable,1.122318169,1.408987235,-0.28666908,Increased,10-Dec,LL,LA/LA,A:A,?,C:C,G:G,T:T,G:A,T:G,0,0,1,1
+CHAKA/02/03/0389,14,13-17,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,729,Advanced immune compromised,20,Suppressed,1.626686069,,,,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,T:G,A:A,T:G,0,0,1,1
+CHAKA/02/03/0391,17,13-17,Adolescent,Female,Born Again,Secondary level,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,moderate stress,cases,467,Possibly immune compromised,0,Undetectable,1.221379518,1.465419623,-0.2440401,Increased,12-Dec,LL,LA/LA,A:A,?,C:C,G:G,T:T,G:G,T:T,0,0,1,1
+CHAKA/02/03/0392,10.006845,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,moderate stress,cases,1010,Advanced immune compromised,0,Undetectable,,0.621206868,,,10-Dec,LL,LA/LA,A:A,?,?,0,T:T,0,G:G,1,0,0,1
+CHAKA/02/03/0393,14,13-17,Adolescent,Female,Born Again,Secondary level,Normal weight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,338,Normal CD4 range,153493,Unsuppressed,1.376006241,0.935336574,0.44066966,Decreased,10-Dec,LL,LA/LA,A:A,A:A,T:T,G:G,T:T,G:A,T:G,1,1,1,1
+CHAKA/02/03/0400,7.581109,13-17,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,I don’t know,Yes,mild stress,cases,1730,Advanced immune compromised,10,Suppressed,1.933330946,,,,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,T:G,G:A,T:G,0,1,0,1
+CHAKA/02/03/0405,7.1457906,05-Aug,Children,Female,Muslim,Pre-primary,Overweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1224,Advanced immune compromised,598,Suppressed,1.691321998,2.026647236,-0.33532524,Increased,12-Dec,LS,LA/SA,A:A,?,C:T,G:A,G:G,G:A,T:T,0,0,0,0
+CHAKA/02/03/0406,9.7138948,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1347,Advanced immune compromised,0,Undetectable,1.171981072,0.769313205,0.40266788,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:C,A:A,G:G,A:A,T:G,0,0,1,1
+CHAKA/02/03/0407,7.6002736,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,moderate stress,cases,1047,Advanced immune compromised,10,Suppressed,0.743468807,0.668889622,0.074579187,Decreased,12-Dec,LL,LA/LA,A:A,G:G,C:T,G:G,T:T,A:A,G:G,0,0,0,0
+CHAKA/02/04/0336,8.3258047,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,694,Advanced immune compromised,36,Suppressed,,,,,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,G:A,,1,0,0,1
+CHAKA/02/04/0455,,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Non-Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,55,Normal CD4 range,11274,Unsuppressed,1.346998307,,,,10-Oct,LS,SA/LG,A:G,A:A,T:T,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/04/0457,14,13-17,Adolescent,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1015,Advanced immune compromised,0,Undetectable,1.557296423,,,,12-Dec,LL,LA/LA,A:A,?,C:C,G:G,T:G,G:A,T:G,1,1,1,1
+CHAKA/02/04/0458,9.7357969,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1377,Advanced immune compromised,0,Undetectable,1.238328358,0.943502333,0.29482603,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:T,G:A,G:G,0,0,0,0
+CHAKA/02/04/0459,14,13-17,Adolescent,Female,Protestant,Secondary level,Normal weight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,709,Advanced immune compromised,20,Suppressed,0.690279706,0.817163846,-0.12688413,Increased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,A:A,T:G,1,1,1,1
+CHAKA/02/04/0461,7.4305272,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,790,Advanced immune compromised,0,Undetectable,1.126580296,,,,12-Dec,LL,LA/LA,A:A,?,C:T,G:G,T:T,G:G,T:G,0,0,0,0
+CHAKA/02/04/0462,15,13-17,Adolescent,Female,Protestant,Pre-primary,Normal weight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,659,Advanced immune compromised,10,Suppressed,1.072345585,1.091672888,-0.019327303,Increased,10-Dec,LL,LA/LG,A:G,?,?,0,0,0,T:G,0,0,0,0
+CHAKA/02/04/0463,6.5653663,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1459,Advanced immune compromised,25,Suppressed,1.196874834,1.231443193,-0.034568358,Increased,12-Dec,LS,LA/SA,A:A,A:A,T:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/04/0464,12,09-Dec,Adolescent,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1926,Advanced immune compromised,0,Undetectable,1.077337956,,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,G:G,G:A,T:T,0,0,0,0
+CHAKA/02/04/0467,11.493498,05-Aug,Children,Male,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1335,Advanced immune compromised,0,Undetectable,1.26572094,,,,10-Oct,LL,LA/LG,A:G,A:A,C:C,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/04/0479,13,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,67,Normal CD4 range,,,1.140599935,,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,T:T,G:A,T:G,1,1,1,1
+CHAKA/02/04/0482,15,13-17,Adolescent,Female,Catholic,Secondary level,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,586,Advanced immune compromised,,,1.779229589,0.801289819,0.97793978,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,T:G,G:A,T:T,0,0,1,1
+CHAKA/02/04/0483,5.2183437,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1525,Advanced immune compromised,314,Suppressed,1.12833662,,,,10-Oct,LL,LA/LG,A:G,A:A,T:T,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/02/04/0491,9.7029428,09-Dec,Adolescent,Male,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,405,Possibly immune compromised,0,Undetectable,1.051772665,,,,12-Dec,LS,LA/SA,A:A,G:A,C:C,G:G,T:T,G:A,T:G,0,0,1,1
+CHAKA/02/04/0492,8.5995893,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1388,Advanced immune compromised,10,Suppressed,,0.792705549,,,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:G,G:G,T:G,0,0,0,0
+CHAKA/02/04/0493,10.937714,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,932,Advanced immune compromised,10,Suppressed,,0.932211263,,,10-Dec,LS,SA/LG,A:G,G:A,T:T,G:A,T:G,A:A,T:G,1,0,0,1
+CHAKA/02/04/0495,7.3018479,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,785,Advanced immune compromised,25318,Unsuppressed,1.376334667,0.965904722,0.41042995,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/04/0497,9.6262836,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1057,Advanced immune compromised,0,Undetectable,,0.627398977,,,12-Dec,LL,LA/LG,A:G,G:A,C:T,G:G,T:T,G:A,G:G,0,0,0,0
+CHAKA/02/04/0502,6.7268991,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1381,Advanced immune compromised,5354,Unsuppressed,0.873586233,0.501410386,0.37217584,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:T,G:G,T:G,0,0,0,0
+CHAKA/02/04/0510,14,13-17,Adolescent,Male,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,705,Advanced immune compromised,20,Suppressed,0.810123968,,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,T:G,G:A,T:T,0,1,0,1
+CHAKA/02/04/1367,13,09-Dec,Adolescent,Male,Born Again,Pre-primary,Normal weight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,942,Advanced immune compromised,,,1.120460909,0.805442382,0.31501853,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/04/1500,4.5256672,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,857,Advanced immune compromised,24,Suppressed,,,,,,LL,,,,,,,,,0,0,0,0
+CHAKA/02/09/0449,9.8754282,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1232,Advanced immune compromised,10,Suppressed,1.966361669,,,,12-Dec,LL,LA/LG,A:G,?,C:C,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/09/0450,10.253251,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,675,Advanced immune compromised,0,Undetectable,0.68588478,0.692399275,-0.006514495,Increased,10-Oct,LL,LA/LG,A:G,A:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/02/09/0662,10.548939,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 4,Was not a premature at birth,Yes,mild stress,cases,1325,Advanced immune compromised,0,Undetectable,1.212680788,,,,12-Dec,LS,SA/LG,A:G,A:A,C:T,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/02/09/0669,10.247775,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,872,Advanced immune compromised,10,Suppressed,0.83668677,0.943806595,-0.10711983,Increased,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/09/0670,12,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,629,Advanced immune compromised,,,1.13358249,,,,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:T,G:A,T:T,0,0,1,1
+CHAKA/02/09/0677,5.7549624,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,720,Advanced immune compromised,116,Suppressed,1.0542171,0.596776038,0.45744106,Decreased,12-Dec,LS,SA/LG,A:G,A:A,C:C,G:A,T:G,A:A,T:T,1,0,0,1
+CHAKA/02/09/0679,5.5003424,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1907,Advanced immune compromised,0,Undetectable,0.788007977,,,,12-Dec,LS,LA/SA,A:A,G:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/02/09/0683,14,13-17,Adolescent,Male,Muslim,Pre-primary,Normal weight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,787,Advanced immune compromised,0,Undetectable,1.183288689,0.889500834,0.29378787,Decreased,10-Oct,LL,,,A:A,C:T,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/09/0684,10.475018,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,Yes,Yes,Stage 4,Was not a premature at birth,Yes,severe stress,cases,2627,Advanced immune compromised,0,Undetectable,1.160239954,0.519621523,0.64061844,Decreased,12-Dec,SS,SA/SA,A:A,?,C:T,G:A,G:G,G:G,T:G,0,1,0,1
+CHAKA/02/09/0686,13.130733,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,628,Advanced immune compromised,10,Suppressed,2.042955464,,,,10-Dec,LL,LA/LG,A:G,A:A,T:T,G:G,T:T,G:A,T:G,1,1,0,1
+CHAKA/02/09/0691,9.776865,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,1110,Advanced immune compromised,10,Suppressed,0.974303846,0.975875577,-0.001571731,Increased,12-Dec,LL,LA/LA,A:A,G:A,C:T,G:A,T:G,A:A,G:G,0,0,0,0
+CHAKA/02/09/0692,6.0917182,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1673,Advanced immune compromised,61,Suppressed,0.162841007,0.406341177,-0.24350017,Increased,10-Dec,LS,SA/LG,A:G,G:A,C:C,G:G,T:G,G:G,G:G,0,0,0,0
+CHAKA/02/09/0693,8.7063656,05-Aug,Children,Male,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents dead,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1747,Advanced immune compromised,0,Undetectable,0.951869549,,,,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:G,T:T,G:A,T:T,0,0,0,0
+CHAKA/02/09/0699,9.327858,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,Yes,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,2371,Advanced immune compromised,0,Undetectable,1.045248485,,,,12-Dec,LL,LA/LA,A:A,?,C:C,G:G,T:T,G:G,T:G,0,0,0,0
+CHAKA/02/09/0700,11.8987,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1042,Advanced immune compromised,0,Undetectable,,,,,12-Dec,LL,LA/LA,A:A,?,C:T,G:G,0,0,T:T,0,0,0,0
+CHAKA/02/09/0703,15,13-17,Adolescent,Female,Catholic,Secondary level,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was a premature at birth,Yes,moderate stress,cases,536,Advanced immune compromised,0,Undetectable,0.869846056,0.537690555,0.3321555,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,T:G,A:A,T:G,0,0,1,1
+CHAKA/02/09/0705,15,09-Dec,Adolescent,Male,Catholic,Secondary level,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,958,Advanced immune compromised,10,Suppressed,0.910169285,0.803154958,0.10701433,Decreased,12-Dec,LS,LA/SA,A:A,G:A,C:C,G:A,G:G,G:A,T:T,0,0,0,0
+CHAKA/02/09/0719,6.9130731,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,2295,Advanced immune compromised,0,Undetectable,1.078950064,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:G,G:G,T:G,0,0,0,0
+CHAKA/02/09/0722,13,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents dead,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,557,Advanced immune compromised,,,,0.919482238,,,,,,,,,,,,,0,0,0,0
+CHAKA/02/09/0732,5.0540724,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,No,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1729,Advanced immune compromised,10,Suppressed,0.807377772,0.682189642,0.12518813,Decreased,10-Dec,LS,SA/LG,A:G,A:A,C:T,G:G,T:T,A:A,G:G,0,0,0,0
+CHAKA/02/09/0734,15,13-17,Adolescent,Female,Protestant,Secondary level,Overweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,I don’t know,No,moderate stress,cases,315,Normal CD4 range,,,,0.829390244,,,,LS,LA/LA,A:A,?,C:T,G:G,T:G,G:A,T:G,1,0,1,1
+CHAKA/02/09/0736,11.181382,09-Dec,Adolescent,Female,Protestant,Pre-primary,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1196,Advanced immune compromised,0,Undetectable,1.073877435,,,,12-Dec,LS,LA/SA,A:A,?,T:T,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/02/09/0737,9.0020533,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,No,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,862,Advanced immune compromised,41378,Unsuppressed,1.391038966,0.789517173,0.60152179,Decreased,,LL,SA/SA,A:A,G:A,C:C,G:G,T:T,A:A,T:T,0,0,1,1
+CHAKA/02/09/0738,10.171116,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1146,Advanced immune compromised,0,Undetectable,1.523843604,0.896835756,0.62700784,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/02/09/0740,5.5304585,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1944,Advanced immune compromised,0,Undetectable,1.527016005,1.134133911,0.39288211,Decreased,12-Dec,LL,LG/LG,G:G,A:A,C:T,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/02/09/0746,12,13-17,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,Yes,Yes,Stage 2,I don’t know,Yes,moderate stress,cases,764,Advanced immune compromised,,,,,,,,,,,,,,,,,0,0,0,0
+CHAKA/02/09/0748,7.9698834,05-Aug,Children,Male,SDA,Pre-primary,Underweight,Muganda,Both parents dead,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1220,Advanced immune compromised,24,Suppressed,1.526707881,0.696896942,0.82981092,Decreased,10-Dec,LL,LA/LG,A:G,G:A,T:T,G:G,T:T,G:G,G:G,0,0,1,1
+CHAKA/02/09/0749,15,13-17,Adolescent,Male,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,32,Normal CD4 range,,,1.557228932,0.646483241,0.91074568,Decreased,10-Dec,LS,LA/SA,A:A,G:A,C:T,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/03/05/0758,8.5201912,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1387,Advanced immune compromised,20878,Unsuppressed,,0.662703289,,,10-Oct,LS,SA/LG,A:G,A:A,C:T,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/03/05/0759,10.327173,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,685,Advanced immune compromised,0,Undetectable,0.913303886,0.627025756,0.28627813,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:C,A:A,G:G,G:A,T:G,1,0,0,1
+CHAKA/03/05/0761,17,13-17,Adolescent,Female,Protestant,Secondary level,Normal weight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,735,Advanced immune compromised,0,Undetectable,,1.290453299,,,10-Dec,LL,LA/LG,A:G,?,?,0,G:G,0,T:T,1,1,1,1
+CHAKA/03/05/0763,10.466804,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,565,Advanced immune compromised,0,Undetectable,,0.806259343,,,12-Dec,LS,SA/LG,A:G,?,C:C,G:G,T:T,A:A,T:T,1,0,0,1
+CHAKA/03/05/0764,6.2642026,05-Aug,Children,Female,Catholic,,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,severe stress,cases,1780,Advanced immune compromised,0,Undetectable,,0.737546486,,,10-Dec,LL,LA/LG,A:G,?,C:T,G:G,T:G,G:G,T:G,0,0,1,1
+CHAKA/03/05/0769,16,05-Aug,Children,Female,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,726,Advanced immune compromised,10,Suppressed,,1.08116649,,,12-Dec,LL,LA/LA,A:A,?,?,,,,,0,0,0,0
+CHAKA/03/05/0771,13,13-17,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1505,Advanced immune compromised,0,Undetectable,,1.259068776,,,12-Dec,LL,LA/LA,A:A,A:A,T:T,G:G,T:T,A:A,T:G,1,0,0,1
+CHAKA/03/05/0772,13,13-17,Adolescent,Female,Catholic,Pre-primary,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,369,Possibly immune compromised,24015,Unsuppressed,,0.400951618,,,10-Dec,LS,SA/LG,A:G,?,T:T,G:A,0,A:A,T:G,0,0,0,0
+CHAKA/03/05/0773,9.4921284,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,1545,Advanced immune compromised,24435,Unsuppressed,1.363114244,0.526378155,0.83673608,Decreased,10-Dec,LS,SA/LG,A:G,A:A,C:T,G:G,T:T,G:A,T:G,0,0,1,1
+CHAKA/03/05/0775,13,13-17,Adolescent,Female,Protestant,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,Yes,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1884,Advanced immune compromised,0,Undetectable,0.956399148,1.288250136,-0.33185098,Increased,12-Dec,LS,LA/SA,A:A,G:A,C:T,G:G,T:T,G:A,T:G,0,1,0,1
+CHAKA/03/05/0777,7.342916,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,I don’t know,Yes,moderate stress,cases,1647,Advanced immune compromised,0,Undetectable,1.149005728,1.674298922,-0.52529317,Increased,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:T,G:A,T:T,0,0,0,0
+CHAKA/03/05/0782,8.5284052,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,912,Advanced immune compromised,0,Undetectable,,0.901341079,,,12-Dec,LS,LA/SA,A:A,?,T:T,G:G,T:T,A:A,T:G,0,0,1,1
+CHAKA/03/05/0788,6.017796,05-Aug,Children,Female,Catholic,Pre-primary,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,2419,Advanced immune compromised,20878,Unsuppressed,1.241978956,0.90534967,0.33662927,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,G:G,G:G,0,0,0,0
+CHAKA/03/05/0792,6.3408623,13-17,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,391,Possibly immune compromised,1251911,Unsuppressed,,0.83487792,,,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/03/05/0796,8.6050653,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,730,Advanced immune compromised,10,Suppressed,1.715355313,,,,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,T:G,G:G,G:G,0,1,0,1
+CHAKA/03/05/0798,14,13-17,Adolescent,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,31,Normal CD4 range,499017,Unsuppressed,,0.873225459,,,10-Oct,SS,SA/SA,A:A,A:A,T:T,G:A,G:G,G:A,T:T,0,1,0,1
+CHAKA/03/05/0805,8.9363451,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,658,Advanced immune compromised,0,Undetectable,1.61645542,0.902285795,0.71416962,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/03/05/0806,9.0458593,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1948,Advanced immune compromised,0,Undetectable,1.570823038,1.032296473,0.53852659,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,A:A,G:G,A:A,T:T,0,0,0,0
+CHAKA/03/05/0807,11.983573,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1011,Advanced immune compromised,10,Suppressed,1.396807422,,,,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,G:G,G:A,T:T,0,0,0,0
+CHAKA/03/05/0811,9.2265568,09-Dec,Adolescent,Female,Protestant,No formal education,Obesity,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1328,Advanced immune compromised,67,Suppressed,1.805358962,0.860588649,0.94477034,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,G:G,T:G,0,0,0,0
+CHAKA/03/05/0816,5.0157428,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,2259,Advanced immune compromised,0,Undetectable,1.352015032,0.768633016,0.58338201,Decreased,10-Dec,LS,LA/SA,A:A,G:A,C:C,G:G,T:G,G:A,G:G,0,0,0,0
+CHAKA/03/05/0819,5.1060915,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,2500,Advanced immune compromised,10,Suppressed,0.838951415,1.1904937,-0.35154229,Increased,10-Dec,LS,LA/SA,A:A,G:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/03/05/0827,8.6680355,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1153,Advanced immune compromised,0,Undetectable,0.95379798,0.545859404,0.40793857,Decreased,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,G:G,G:G,T:T,0,0,0,0
+CHAKA/03/06/0367,,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,803,Advanced immune compromised,,,0.440419398,0.610857148,-0.17043775,Increased,,LL,LA/LA,A:A,A:A,C:T,G:A,T:G,A:A,T:T,0,0,0,0
+CHAKA/03/06/0915,7.3018479,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,555,Advanced immune compromised,10,Suppressed,0.834323791,0.522076655,0.31224713,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,G:A,T:T,0,0,0,0
+CHAKA/03/06/0923,11.247091,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,490,Possibly immune compromised,186,Suppressed,1.101223046,0.904994874,0.19622818,Decreased,12-Dec,LL,LA/LA,A:A,?,C:T,G:G,G:G,0,T:G,0,0,1,1
+CHAKA/03/06/0924,10.162902,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,54,Normal CD4 range,38874,Unsuppressed,,0.627142457,,,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:G,G:A,G:G,0,0,1,1
+CHAKA/03/06/0929,10.502396,09-Dec,Adolescent,Female,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1563,Advanced immune compromised,10,Suppressed,1.468692158,1.193465761,0.27522638,Decreased,10-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:G,G:G,T:G,0,0,1,1
+CHAKA/03/06/0943,10.576318,05-Aug,Children,Male,Muslim,Pre-primary,Normal weight,Muganda,,high socioecnomic status,No,Yes,Stage 2,I don’t know,Yes,moderate stress,cases,1062,Advanced immune compromised,0,Undetectable,0.933664215,0.774720281,0.15894394,Decreased,12-Dec,LS,LA/SA,A:A,A:A,T:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/03/06/0951,6.3545518,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,685,Advanced immune compromised,10,Suppressed,1.803947386,1.131276756,0.6726706,Decreased,10-Dec,LL,LA/LA,A:A,G:A,C:T,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/03/06/0952,12.577686,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,791,Advanced immune compromised,13049,Unsuppressed,0.876374176,,,,10-Oct,LS,LA/SA,A:A,G:A,C:T,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/03/06/0956,14.699521,13-17,Adolescent,Male,Muslim,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,Yes,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,525,Advanced immune compromised,10,Suppressed,1.787531105,1.118778573,0.66875255,Decreased,10-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:G,G:A,T:G,1,0,0,1
+CHAKA/03/06/0967,6.9048595,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,2089,Advanced immune compromised,0,Undetectable,1.5529636,0.85531138,0.69765222,Decreased,12-Dec,LL,,,A:A,C:T,G:G,T:T,A:A,T:T,0,0,0,0
+CHAKA/03/06/0999,10.639288,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Non-Ugandan,Single parent alive,low socio-economic status,No,No,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1997,Advanced immune compromised,0,Undetectable,1.62242913,1.434449309,0.18797982,Decreased,12-Dec,LL,LA/LA,A:A,?,C:C,G:G,T:G,G:G,T:T,0,0,0,0
+CHAKA/03/06/1019,,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,71,Normal CD4 range,14529,Unsuppressed,1.794383827,0.884080787,0.91030306,Decreased,10-Dec,LL,LA/LA,A:A,?,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/03/06/1026,16.016428,13-17,Adolescent,Female,Catholic,Secondary level,Normal weight,Muganda,Both parents alive,high socioecnomic status,Yes,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,494,Possibly immune compromised,,,1.024056666,1.009911934,0.014144732,Decreased,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:G,T:G,G:A,G:G,0,1,0,1
+CHAKA/03/07/1051,13,05-Aug,Children,Female,Born Again,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,559,Advanced immune compromised,0,Undetectable,0.765697442,0.986895385,-0.22119795,Increased,12-Dec,SS,SA/SA,A:A,G:G,C:C,G:G,T:T,G:G,G:G,0,1,1,1
+CHAKA/03/07/1071,10.190281,09-Dec,Adolescent,Female,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1123,Advanced immune compromised,0,Undetectable,1.360972198,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/03/07/1075,8.457221,05-Aug,Children,Female,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,1325,Advanced immune compromised,0,Undetectable,1.627962786,0.848305019,0.77965778,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/03/07/1077,7.4086242,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 4,Was not a premature at birth,Yes,mild stress,cases,850,Advanced immune compromised,10,Suppressed,1.343255539,,,,10-Dec,LL,LA/LA,A:A,A:A,T:T,G:G,T:T,G:A,G:G,0,0,0,0
+CHAKA/03/07/1081,6.7132101,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1704,Advanced immune compromised,0,Undetectable,0.987050148,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/03/07/1085,9.2429838,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,822,Advanced immune compromised,6269,Unsuppressed,1.491369563,,,,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,G:G,G:G,T:T,0,0,0,0
+CHAKA/03/07/1090,7.0910335,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,2364,Advanced immune compromised,38499,Unsuppressed,1.442409989,1.406454783,0.035955206,Decreased,10-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:G,G:G,T:G,0,0,0,0
+CHAKA/03/07/1093,10.986995,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Non-Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1237,Advanced immune compromised,10,Suppressed,1.200013227,0.941725668,0.25828755,Decreased,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,G:G,G:G,G:G,0,0,0,0
+CHAKA/03/07/1096,11.400411,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1172,Advanced immune compromised,0,Undetectable,1.239737113,1.961564583,-0.72182745,Increased,10-Oct,LS,SA/LG,A:G,A:A,T:T,G:G,T:T,G:G,T:G,0,0,0,0
+CHAKA/03/07/1097,,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1080,Advanced immune compromised,0,Undetectable,1.111695063,,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,G:G,G:A,,0,0,0,0
+CHAKA/03/07/1120,14,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,594,Advanced immune compromised,121,Suppressed,1.147534725,0.698239062,0.44929567,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,G:G,T:T,0,0,1,1
+CHAKA/03/07/1121,12,09-Dec,Adolescent,Female,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,712,Advanced immune compromised,838,Suppressed,1.105421869,1.138086329,-0.032664459,Increased,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,T:G,G:A,G:G,0,0,0,0
+CHAKA/03/07/1124,15,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,503,Advanced immune compromised,1319,Unsuppressed,1.889984501,1.032763312,0.85722119,Decreased,12-Dec,LL,LA/LA,A:A,A:A,T:T,G:A,T:G,A:A,T:T,1,0,1,1
+CHAKA/03/07/1125,8.449008,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,365,Possibly immune compromised,45,Suppressed,,0.775643002,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,A:A,G:G,A:A,T:T,0,0,0,0
+CHAKA/03/07/1126,,13-17,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1380,Advanced immune compromised,0,Undetectable,0.985060753,,,,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/03/07/1128,10.757016,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,981,Advanced immune compromised,10,Suppressed,1.226886408,0.874764811,0.35212159,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,A:A,G:G,0,0,0,0
+CHAKA/03/07/1132,8.0438061,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,831,Advanced immune compromised,0,Undetectable,,0.839042597,,,12-Dec,LL,LA/LA,A:A,A:A,T:T,G:G,T:G,G:G,G:G,0,0,0,0
+CHAKA/03/07/1133,9.9329224,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,908,Advanced immune compromised,0,Undetectable,,0.874247121,,,12-Dec,LL,,,A:A,C:C,G:G,T:T,G:A,T:T,0,0,1,1
+CHAKA/03/07/1134,8.6817245,05-Aug,Children,Female,Born Again,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 1,I don’t know,Yes,mild stress,cases,885,Advanced immune compromised,0,Undetectable,1.180387352,1.532633526,-0.35224617,Increased,10-Dec,LL,LA/LA,A:A,?,C:C,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/03/07/1141,10.179329,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,477,Possibly immune compromised,0,Undetectable,1.242561827,0.884942814,0.35761902,Decreased,10-Dec,LS,SA/LG,A:G,?,T:T,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/03/07/1147,15,13-17,Adolescent,Female,Born Again,Secondary level,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,571,Advanced immune compromised,82,Suppressed,1.648820022,0.865290967,0.78352904,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,T:G,G:A,G:G,0,0,1,1
+CHAKA/03/07/1157,8.3312798,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,1222,Advanced immune compromised,156,Suppressed,1.316051346,0.914602695,0.40144864,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:G,G:A,G:G,0,0,0,0
+CHAKA/03/07/1170,5.7549624,05-Aug,Children,Male,Catholic,No formal education,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,2424,Advanced immune compromised,0,Undetectable,1.340524354,0.647869826,0.69265455,Decreased,10-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,T:G,G:G,T:T,0,0,0,0
+CHAKA/03/07/1172,13,13-17,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,634,Advanced immune compromised,,,1.253572755,0.566999632,0.68657315,Decreased,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,T:G,A:A,G:G,0,0,0,0
+CHAKA/03/07/1180,16,13-17,Adolescent,Female,Muslim,Secondary level,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,257,Normal CD4 range,7652,Unsuppressed,0.112096304,0.822371185,-0.71027488,Increased,12-Dec,LL,LA/LG,A:G,A:A,T:T,G:A,T:G,G:A,G:G,0,0,1,1
+CHAKA/03/07/1192,9.6974678,09-Dec,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Both parents dead,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1336,Advanced immune compromised,0,Undetectable,1.57081727,0.626501689,0.94431555,Decreased,12-Dec,LL,LA/LA,A:A,G:A,?,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/03/07/1197,13,09-Dec,Adolescent,Male,Muslim,Pre-primary,Normal weight,Muganda,Both parents dead,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,334,Normal CD4 range,,,,0.743447583,,,,,,,,,,,,,0,0,1,1
+CHAKA/03/08/1202,11.780972,09-Dec,Adolescent,Female,Catholic,Pre-primary,Obesity,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was a premature at birth,Yes,mild stress,cases,1187,Advanced immune compromised,0,Undetectable,0.300281264,0.750296127,-0.45001486,Increased,12-Dec,SS,SA/SA,A:A,A:A,C:T,G:G,T:G,G:G,T:T,0,0,0,0
+CHAKA/03/08/1204,5.0458589,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,No,severe stress,cases,1268,Advanced immune compromised,10,Suppressed,0.914129559,0.656240448,0.25788912,Decreased,12-Dec,LL,LA/LG,A:G,G:A,C:C,G:G,T:G,G:G,T:T,0,0,0,0
+CHAKA/03/08/1206,13,13-17,Adolescent,Female,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,I don’t know,severe stress,cases,495,Possibly immune compromised,0,Undetectable,1.711997453,,,,12-Dec,LL,LA/LG,A:G,G:A,C:T,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/03/08/1208,8.9527721,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,14,Normal CD4 range,71247,Unsuppressed,2.085193945,0.723907437,1.3612865,Decreased,10-Dec,LL,LG/LG,G:G,A:A,C:C,G:G,T:G,G:G,G:G,0,0,0,0
+CHAKA/03/08/1209,7.0773444,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,936,Advanced immune compromised,0,Undetectable,0.82082638,0.791958654,0.028867725,Decreased,10-Dec,LS,LA/SA,A:A,A:A,T:T,G:G,T:T,A:A,T:T,0,0,0,0
+CHAKA/03/08/1212,,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,776,Advanced immune compromised,0,Undetectable,1.302945269,,,,10-Dec,LS,LA/SA,A:A,?,C:C,G:G,T:T,G:G,T:G,0,1,1,1
+CHAKA/03/08/1222,10.710472,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1506,Advanced immune compromised,0,Undetectable,1.752135246,0.627053266,1.125082,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/03/08/1225,14,13-17,Adolescent,Female,Protestant,Pre-primary,Normal weight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,No,moderate stress,cases,1108,Advanced immune compromised,0,Undetectable,1.0682467,,,,10-Dec,LL,LA/LG,A:G,A:A,C:C,A:A,G:G,G:A,T:G,1,0,1,1
+CHAKA/03/08/1226,,13-17,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1069,Advanced immune compromised,27421,Unsuppressed,1.074698656,0.988288561,0.086410098,Decreased,12-Dec,LS,SA/LG,A:G,A:A,C:C,G:A,G:G,G:A,G:G,1,0,0,1
+CHAKA/03/08/1239,6.198494,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,692,Advanced immune compromised,4165,Unsuppressed,1.358632822,0.825317282,0.53331554,Decreased,12-Dec,LS,SA/LG,A:G,A:A,C:T,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/03/08/1243,8.2026014,13-17,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,668,Advanced immune compromised,0,Undetectable,1.612808883,0.938519385,0.67428952,Decreased,10-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/03/08/1247,,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,757,Advanced immune compromised,10,Suppressed,1.377773918,0.845814478,0.53195941,Decreased,10-Dec,LL,LA/LG,A:G,G:A,C:T,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/03/08/1251,8.9719372,05-Aug,Children,Male,Muslim,Pre-primary,Normal weight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,201,Normal CD4 range,79293,Unsuppressed,1.559263188,,,,10-Dec,LL,LA/LG,A:G,G:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/03/08/1263,10.986995,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,I don’t know,moderate stress,cases,637,Advanced immune compromised,61,Suppressed,1.129188648,0.811212657,0.317976,Decreased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/03/08/1269,15,13-17,Adolescent,Female,Born Again,Secondary level,Normal weight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,,,,,,1.091748331,,,,,,,,,,,,,0,0,1,1
+CHAKA/03/08/1291,10.658453,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,1199,Advanced immune compromised,10,Suppressed,0.413076887,0.738992714,-0.32591581,Increased,12-Dec,LS,LA/SA,A:A,G:A,C:T,G:G,T:T,A:A,G:G,0,0,0,0
+CHAKA/03/08/1294,11.761807,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,959,Advanced immune compromised,10,Suppressed,1.963776273,0.911423445,1.0523528,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:G,T:G,G:A,G:G,0,0,0,0
+CHAKA/03/08/1297,6.0780287,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,615,Advanced immune compromised,25652,Unsuppressed,1.362030102,,,,,LL,LA/LG,A:G,A:A,C:C,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/03/08/1303,5.2046542,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,323,Normal CD4 range,765,Suppressed,0.105856013,0.683225507,-0.57736951,Increased,12-Dec,LL,LA/LG,A:G,A:A,C:C,G:G,T:T,A:A,T:G,0,0,0,0
+CHAKA/03/08/1316,15,13-17,Adolescent,Female,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,710,Advanced immune compromised,,,1.686258424,0.874855028,0.81140339,Decreased,10-Dec,LS,SA/LG,A:G,A:A,C:T,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/03/08/1344,5.8097196,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,465,Possibly immune compromised,0,Undetectable,0.793262507,0.760486777,0.03277573,Decreased,10-Dec,LS,SA/LG,A:G,A:A,C:C,G:G,T:G,G:G,T:T,0,0,0,0
+CHAKA/04/05/0785,13,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,2294,Advanced immune compromised,,,1.263338966,0.625738691,0.6376003,Decreased,10-Dec,LS,SA/LG,A:G,A:A,C:T,G:A,G:G,G:G,G:G,0,1,0,1
+CHAKA/04/05/0801,14,13-17,Adolescent,Female,Catholic,Secondary level,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,624,Advanced immune compromised,10,Suppressed,1.131487655,,,,10-Dec,SS,SA/SA,A:A,A:A,T:T,G:A,G:G,G:A,T:G,0,0,1,1
+CHAKA/04/06/0961,13.623546,13-17,Adolescent,Male,Catholic,No formal education,Underweight,Muganda,Both parents alive,low socio-economic status,Yes,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,11,Normal CD4 range,15148,Unsuppressed,1.347104956,0.9521881,0.39491686,Decreased,10-Oct,LL,LG/LG,G:G,A:A,C:C,G:A,T:G,G:A,T:T,0,0,0,0
+CHAKA/04/07/1069,16,13-17,Adolescent,Male,Catholic,Pre-primary,Normal weight,Muganda,Both parents dead,low socio-economic status,Yes,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,296,Normal CD4 range,54430,Unsuppressed,1.518065561,,,,10-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,T:G,A:A,T:T,0,0,1,1
+CHAKA/04/07/1070,17,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,836,Advanced immune compromised,0,Undetectable,1.470718161,,,,12-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/04/07/1072,13,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,481,Possibly immune compromised,598,Suppressed,0.929241595,0.759166687,0.17007491,Decreased,12-Dec,LL,LA/LG,A:G,G:A,C:C,G:A,T:G,G:A,T:T,0,0,1,1
+CHAKA/04/07/1115,12,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,1486,Advanced immune compromised,,,1.44460098,1.351409829,0.093191154,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:C,G:A,G:G,G:A,T:T,0,0,0,0
+CHAKA/04/07/1140,,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1172,Advanced immune compromised,0,Undetectable,1.202226557,0.767575262,0.43465129,Decreased,10-Dec,LL,,,A:A,C:C,G:G,T:T,G:A,G:G,0,0,0,0
+CHAKA/04/08/1253,13,13-17,Adolescent,Male,Catholic,Pre-primary,Normal weight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,moderate stress,cases,803,Advanced immune compromised,,,1.206443158,0.968382268,0.23806089,Decreased,10-Dec,LS,SA/LG,A:G,G:A,C:C,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/05/05/0504,7.2689939,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1330,Advanced immune compromised,0,Undetectable,0.687233325,0.590068052,0.097165272,Decreased,,,,,A:A,T:T,G:G,G:G,G:G,T:G,1,1,0,1
+CHAKA/05/05/0505,9.1937027,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,severe stress,cases,1167,Advanced immune compromised,0,Undetectable,0.754809932,0.682888251,0.071921684,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,G:G,G:G,0,0,0,0
+CHAKA/05/05/0507,6.5708418,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 1,Was not a premature at birth,Yes,mild stress,cases,790,Advanced immune compromised,10,Suppressed,0.63896673,1.852505094,-1.2135384,Increased,10-Dec,LL,LA/LG,A:G,A:A,T:T,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/05/05/0518,9.6673508,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1564,Advanced immune compromised,142,Suppressed,0.801839357,,,,12-Dec,LS,LA/SA,A:A,G:A,T:T,G:G,T:G,G:G,T:T,0,0,0,0
+CHAKA/05/05/0519,8.1149893,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1136,Advanced immune compromised,10,Suppressed,0.480175385,0.387431816,0.092743568,Decreased,10-Dec,LS,SA/LG,A:G,A:A,T:T,G:G,T:G,G:G,T:T,0,0,0,0
+CHAKA/05/05/0522,14,13-17,Adolescent,Female,Catholic,Pre-primary,Normal weight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 1,Was not a premature at birth,Yes,moderate stress,cases,849,Advanced immune compromised,10,Suppressed,0.951727657,0.86145496,0.090272695,Decreased,10-Dec,LL,LA/LA,A:A,G:A,C:T,G:G,T:G,G:A,T:T,1,0,0,1
+CHAKA/05/05/0839,11.920603,09-Dec,Adolescent,Female,Protestant,Pre-primary,Normal weight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1607,Advanced immune compromised,0,Undetectable,1.358449326,,,,12-Dec,LS,SA/LG,A:G,A:A,C:C,G:G,T:G,G:G,G:G,0,0,1,1
+CHAKA/05/05/0847,5.0458589,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,severe stress,cases,1497,Advanced immune compromised,0,Undetectable,,0.936869418,,,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:G,G:A,G:G,1,0,1,1
+CHAKA/05/05/0849,15,13-17,Adolescent,Female,Born Again,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,931,Advanced immune compromised,,,1.346120147,0.842283052,0.50383711,Decreased,10-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,G:A,T:G,1,1,1,1
+CHAKA/05/05/0850,10.075291,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1545,Advanced immune compromised,36,Suppressed,1.015089324,1.558985368,-0.54389602,Increased,12-Dec,LL,LA/LA,A:A,A:A,T:T,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/05/05/0851,15,13-17,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,631,Advanced immune compromised,,,,0.947328993,,,12-Dec,LL,LA/LA,A:A,?,C:T,G:A,T:G,G:A,T:G,1,0,0,1
+CHAKA/05/05/0853,11.110198,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,474,Possibly immune compromised,29532,Unsuppressed,1.623709635,0.476106319,1.1476033,Decreased,10-Dec,LL,LA/LG,A:G,G:A,T:T,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/05/05/0854,6.7378507,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1351,Advanced immune compromised,12895,Unsuppressed,1.107249672,0.873881827,0.23336785,Decreased,10-Dec,LL,LA/LA,A:A,A:A,T:T,G:A,T:G,A:A,G:G,0,0,0,0
+CHAKA/05/05/0855,14,13-17,Adolescent,Female,Catholic,Secondary level,Normal weight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,No,severe stress,cases,534,Advanced immune compromised,,,,0.897734469,,,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/05/05/0859,13,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,476,Possibly immune compromised,,,0.90203779,0.768489395,0.13354839,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:C,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/05/05/0861,14,13-17,Adolescent,Male,Born Again,Pre-primary,Underweight,Muganda,Both parents dead,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,312,Normal CD4 range,,,,,,,12-Dec,LL,LA/LG,A:G,?,C:C,G:G,0,G:G,T:G,0,1,0,1
+CHAKA/05/05/0872,7.0116358,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1286,Advanced immune compromised,5023,Unsuppressed,1.097371712,0.777066646,0.32030508,Decreased,12-Dec,LL,LG/LG,G:G,G:A,C:C,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/05/05/0876,10.154689,13-17,Adolescent,Male,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,174,Normal CD4 range,16439,Unsuppressed,0.855561973,0.738605588,0.11695638,Decreased,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:A,G:G,G:A,G:G,0,0,0,0
+CHAKA/05/05/0877,8.3367558,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1065,Advanced immune compromised,10,Suppressed,1.079523819,0.976571329,0.10295249,Decreased,12-Dec,LS,LA/SA,A:A,G:A,C:C,G:A,T:G,A:A,G:G,0,1,0,1
+CHAKA/05/05/0880,5.760438,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1999,Advanced immune compromised,620,Suppressed,1.255765576,1.10307409,0.15269148,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:G,T:G,G:A,G:G,1,0,0,1
+CHAKA/05/05/0888,11.646817,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,I don’t know,severe stress,cases,934,Advanced immune compromised,93,Suppressed,0.646782592,0.917720782,-0.27093819,Increased,10-Dec,SS,SA/SA,A:A,A:A,C:T,A:A,G:G,A:A,T:G,0,1,1,1
+CHAKA/05/05/0900,8.873374,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,I don’t know,mild stress,cases,1638,Advanced immune compromised,,,1.021939405,0.921229866,0.10070954,Decreased,12-Dec,LL,LA/LG,A:G,G:A,C:T,G:A,T:G,G:A,G:G,0,0,0,0
+CHAKA/05/06/0372,14.157427,09-Dec,Adolescent,Male,Catholic,Pre-primary,,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,815,Advanced immune compromised,,,1.437193912,0.730763976,0.70642996,Decreased,,,,,?,?,0,0,0,T:T,0,0,0,0
+CHAKA/05/06/0445,10.206708,09-Dec,Adolescent,Male,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,960,Advanced immune compromised,130394,Unsuppressed,0.763675307,0.470533503,0.29314181,Decreased,10-Dec,LL,LA/LA,A:A,G:A,C:T,G:A,T:G,A:A,T:T,0,0,0,0
+CHAKA/05/06/0996,6.7241616,13-17,Adolescent,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1627,Advanced immune compromised,0,Undetectable,0.332611704,,,,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:G,G:G,G:G,T:G,0,0,0,0
+CHAKA/05/06/1013,5.8343601,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,,,,,,1.029607032,,,,,,,,,,,,,0,0,0,0
+CHAKA/05/06/1038,8.010951,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,116,Normal CD4 range,1170290,Unsuppressed,1.270225356,1.339716474,-0.069491118,Increased,10-Dec,LL,LA/LA,A:A,G:A,C:T,G:A,T:G,G:A,T:T,0,0,0,0
+CHAKA/05/07/0422,11.315537,09-Dec,Adolescent,Male,Born Again,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,757,Advanced immune compromised,73681,Unsuppressed,0.622648423,,,,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:T,G:G,T:G,0,0,0,0
+CHAKA/05/07/0428,10.045175,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1551,Advanced immune compromised,0,Undetectable,1.339829803,0.587887166,0.75194263,Decreased,10-Oct,LL,LA/LG,A:G,G:A,T:T,G:G,T:T,G:G,T:T,0,0,0,0
+CHAKA/05/07/0429,17,13-17,Adolescent,Female,Muslim,No formal education,Normal weight,Muganda,Single parent alive,high socioecnomic status,Yes,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,317,Normal CD4 range,0,Undetectable,0.72511375,1.197766295,-0.47265255,Increased,10-Dec,LL,LA/LG,A:G,A:A,C:T,G:A,T:G,A:A,T:T,0,0,0,0
+CHAKA/05/07/0430,10.699521,13-17,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,925,Advanced immune compromised,,,1.274726466,0.832985581,0.44174087,Decreased,,LL,LA/LA,A:A,A:A,C:T,G:A,T:G,A:A,T:T,0,0,0,0
+CHAKA/05/07/0431,11.515401,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1479,Advanced immune compromised,10,Suppressed,0.760509668,0.912091952,-0.15158229,Increased,10-Oct,LL,LA/LG,A:G,A:A,C:T,G:G,T:G,G:G,T:G,0,0,0,0
+CHAKA/05/07/0433,14,05-Aug,Children,Male,Born Again,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,231,Normal CD4 range,,,1.19410734,1.077436621,0.11667072,Decreased,,,,,?,?,0,0,0,G:G,0,0,1,1
+CHAKA/05/07/1153,,09-Dec,Adolescent,Male,Born Again,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,481,Possibly immune compromised,5283,Unsuppressed,0.953292273,1.298916113,-0.34562385,Increased,10-Dec,SS,LA/LA,A:A,A:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/05/07/1154,,09-Dec,Adolescent,Female,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1495,Advanced immune compromised,170241,Unsuppressed,1.78068223,1.21217517,0.56850708,Decreased,10-Dec,SS,LA/LA,A:A,A:A,C:T,G:G,T:G,G:A,T:G,0,0,0,0
+CHAKA/05/07/1155,15,13-17,Adolescent,Female,Catholic,Secondary level,Normal weight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,402,Possibly immune compromised,,,1.341390882,1.651020119,-0.30962923,Increased,10-Dec,LS,LA/SG,A:G,A:A,C:C,G:A,T:G,A:A,T:G,0,0,1,1
+CHAKA/05/07/1160,,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,984,Advanced immune compromised,10,Suppressed,1.042070491,0.604134353,0.43793613,Decreased,10-Oct,LL,LA/LA,A:A,A:A,C:T,G:A,T:G,A:A,G:G,0,0,0,0
+CHAKA/05/07/1161,8.9336071,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1476,Advanced immune compromised,11905,Unsuppressed,0.14211937,1.333763314,-1.191644,Increased,10-Oct,LS,LA/SA,A:A,A:A,C:C,A:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/05/07/1162,5.1854892,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1686,Advanced immune compromised,0,Undetectable,,,,,12-Dec,LL,LA/LG,A:G,?,C:C,G:G,T:G,G:A,T:G,0,1,0,1
+CHAKA/05/07/1166,,05-Aug,Children,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was a premature at birth,Yes,severe stress,cases,1144,Advanced immune compromised,8666,Unsuppressed,1.058288151,0.889916021,0.16837212,Decreased,12-Dec,LL,LA/LG,A:G,G:A,C:T,G:G,T:G,G:A,T:T,0,0,1,1
+CHAKA/05/07/1167,5.0814509,13-17,Adolescent,Male,Muslim,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1000,Advanced immune compromised,10,Suppressed,1.962959054,0.713142628,1.2498164,Decreased,10-Dec,LL,LG/LG,G:G,A:A,C:T,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/05/07/1168,17,13-17,Adolescent,Female,Protestant,Secondary level,Overweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1173,Advanced immune compromised,,,1.507123686,0.747931262,0.75919241,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:C,G:G,T:G,G:A,T:G,0,0,1,1
+CHAKA/05/07/1174,13,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,573,Advanced immune compromised,10,Suppressed,1.11784436,1.183969714,-0.066125356,Increased,12-Dec,LL,LA/LG,A:G,A:A,C:T,G:G,T:T,G:A,T:G,0,0,0,0
+CHAKA/05/07/1176,,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1905,Advanced immune compromised,10,Suppressed,1.640167729,1.210648878,0.42951885,Decreased,12-Dec,LL,LA/LG,A:G,G:A,C:T,G:A,T:G,G:A,G:G,0,0,0,0
+CHAKA/05/07/1182,,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,2455,Advanced immune compromised,10,Suppressed,1.174757767,1.115893945,0.058863822,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:C,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/05/07/1184,7.8959618,05-Aug,Children,Male,Protestant,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1105,Advanced immune compromised,64,Suppressed,1.28608548,1.018405491,0.26767999,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:T,A:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/05/07/1185,,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1037,Advanced immune compromised,188215,Unsuppressed,0.991427743,,,,12-Dec,LL,LA/LA,A:A,A:A,?,G:G,T:G,G:A,T:T,0,0,0,0
+CHAKA/05/07/1191,,05-Aug,Children,Female,Muslim,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,714,Advanced immune compromised,157,Suppressed,0.650127935,0.577462809,0.072665125,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:A,0,A:A,T:G,0,0,0,0
+CHAKA/05/07/1194,11.635866,09-Dec,Adolescent,Male,Muslim,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,424,Possibly immune compromised,128109,Unsuppressed,0.938147625,0.574558967,0.36358866,Decreased,12-Dec,LL,LA/LG,A:G,A:A,C:C,G:A,T:G,A:A,G:G,0,0,0,0
+CHAKA/05/07/1195,13,09-Dec,Adolescent,Male,Catholic,Pre-primary,Overweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,747,Advanced immune compromised,,,,0.692318193,,,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:T,G:G,G:G,0,1,0,1
+CHAKA/05/07/1199,7.5838466,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,749,Advanced immune compromised,0,Undetectable,,0.788697544,,,,,,,,,,,,,0,0,0,0
+CHAKA/05/08/0370,9.1690626,13-17,Adolescent,Male,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1185,Advanced immune compromised,4106,Unsuppressed,0.7702366,0.614077042,0.15615956,Decreased,,LL,LA/LA,A:A,A:A,C:C,G:A,T:G,A:A,G:G,0,0,0,0
+CHAKA/05/08/1302,10.370978,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1079,Advanced immune compromised,0,Undetectable,,1.123006034,,,12-Dec,LL,LA/LA,A:A,G:A,C:C,G:A,T:G,G:G,T:G,0,0,0,0
+CHAKA/05/08/1306,,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1271,Advanced immune compromised,0,Undetectable,0.998310622,,,,12-Dec,LS,LA/SA,A:A,G:A,C:C,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/05/08/1310,,05-Aug,Children,Female,Protestant,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1437,Advanced immune compromised,10,Suppressed,1.386513159,0.626963405,0.75954974,Decreased,12-Dec,LS,LA/SA,A:A,A:A,C:T,G:G,T:G,G:G,T:T,0,0,0,0
+CHAKA/05/08/1319,7.2717319,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,severe stress,cases,1163,Advanced immune compromised,0,Undetectable,0.391116015,1.457017479,-1.0659015,Increased,10-Dec,LS,LA/SA,A:A,G:A,C:T,G:A,T:G,G:G,,0,1,0,1
+CHAKA/05/08/1321,6.0561261,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1066,Advanced immune compromised,10,Suppressed,1.735802079,0.81390463,0.92189747,Decreased,10-Dec,LS,LA/SA,A:A,G:A,C:C,G:A,T:G,A:A,T:G,0,0,0,0
+CHAKA/05/08/1322,,09-Dec,Adolescent,Male,SDA,Pre-primary,Underweight,Muganda,Single parent alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1191,Advanced immune compromised,10,Suppressed,1.023600489,1.036079998,-0.012479509,Increased,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:G,T:T,G:A,,0,0,0,0
+CHAKA/05/08/1323,11.893224,09-Dec,Adolescent,Male,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,high socioecnomic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,981,Advanced immune compromised,10,Suppressed,0.783283873,0.873073453,-0.089789577,Increased,10-Dec,LL,LA/LG,A:G,G:A,C:C,G:G,T:G,G:G,,0,0,0,0
+CHAKA/05/08/1326,8.6324434,05-Aug,Children,Male,Catholic,Pre-primary,Underweight,Muganda,Single parent alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,moderate stress,cases,1003,Advanced immune compromised,104072,Unsuppressed,1.092114265,0.852140695,0.23997357,Decreased,12-Dec,LL,LA/LA,A:A,A:A,C:T,G:A,T:G,G:A,T:G,0,0,0,0
+CHAKA/05/08/1341,6.877481,05-Aug,Children,Female,Catholic,Pre-primary,Underweight,Non-Munganda but Ugandan,Both parents alive,high socioecnomic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,1257,Advanced immune compromised,,,0.920008838,1.059125153,-0.13911632,Increased,10-Dec,LS,LA/SA,A:A,A:A,C:C,G:A,G:G,G:A,T:G,0,0,0,0
+CHAKA/05/08/1345,,09-Dec,Adolescent,Female,Catholic,Pre-primary,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 2,Was not a premature at birth,Yes,mild stress,cases,506,Advanced immune compromised,0,Undetectable,0.901998222,0.792979697,0.10901853,Decreased,10-Oct,SS,SA/SA,A:A,G:A,C:T,G:G,T:T,G:A,G:G,0,0,0,0
+CHAKA/05/08/1350,14,09-Dec,Adolescent,Male,Muslim,Secondary level,Underweight,Muganda,Both parents alive,low socio-economic status,No,Yes,Stage 3,Was not a premature at birth,Yes,mild stress,cases,288,Normal CD4 range,4234,Unsuppressed,,0.871385288,,,,LS,LA/SA,A:A,?,T:T,0,G:G,A:A,T:G,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
